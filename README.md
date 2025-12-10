@@ -7,7 +7,6 @@
 - [🛠️ Fonctionnalités par niveau](#️-fonctionnalités-par-niveau)
 - [🏗️ Architecture technique](#️-architecture-technique)
 - [📦 Compilation et exécution](#-compilation-et-exécution)
-- [📄 Licence et crédits](#-licence-et-crédits)
 
 ## 🚀 Aperçu du projet
 
