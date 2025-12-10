@@ -1,0 +1,39 @@
+# Dossier d'IDE/éditeur
+.vscode/
+.idea/
+
+# Fichiers compilés C
+*.o
+*.obj
+
+# Exécutables
+gerer_sf_v1
+gerer_sf_v2
+gerer_sf_v3
+gerer_sf_v4
+*.exe
+*.out
+*.app
+
+# Fichiers d'archive (pour Moodle)
+*.zip
+NOM-*-*.zip
+
+# Fichiers temporaires/backup
+*~
+*.bak
+*.swp
+*.swo
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Fichiers de données de test
+*.dat
+*.bin
+test_*.txt
+
+# Dossiers de build (si tu en crées)
+build/
+dist/
